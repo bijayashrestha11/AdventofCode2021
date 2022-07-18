@@ -1,0 +1,1 @@
+print("The value of gamma is ", int(gamma))
